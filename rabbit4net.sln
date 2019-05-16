@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.28803.202
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "rabbit4net", "rabbit4net\rabbit4net.csproj", "{65E488BA-B0E8-4196-A290-D55E3C731ED8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "rabbit4net", "rabbit4net\rabbit4net.csproj", "{65E488BA-B0E8-4196-A290-D55E3C731ED8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "rabbit4netConsoleApp", "..\rabbit4netConsoleApp\rabbit4netConsoleApp.csproj", "{F77D4F1E-D66B-4807-9ADC-4D90C380183E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "rabbit4netConsoleApp", "rabbit4netConsoleApp\rabbit4netConsoleApp.csproj", "{7C5557BA-142B-45A4-8F38-BE9E8136909E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,10 +17,10 @@ Global
 		{65E488BA-B0E8-4196-A290-D55E3C731ED8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{65E488BA-B0E8-4196-A290-D55E3C731ED8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{65E488BA-B0E8-4196-A290-D55E3C731ED8}.Release|Any CPU.Build.0 = Release|Any CPU
-		{F77D4F1E-D66B-4807-9ADC-4D90C380183E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{F77D4F1E-D66B-4807-9ADC-4D90C380183E}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{F77D4F1E-D66B-4807-9ADC-4D90C380183E}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{F77D4F1E-D66B-4807-9ADC-4D90C380183E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7C5557BA-142B-45A4-8F38-BE9E8136909E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C5557BA-142B-45A4-8F38-BE9E8136909E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C5557BA-142B-45A4-8F38-BE9E8136909E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C5557BA-142B-45A4-8F38-BE9E8136909E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
