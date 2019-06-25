@@ -1,16 +1,10 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Web;
-using RabbitMQ.Client;
+﻿using RabbitMQ.Client;
 using RabbitMQ.Client.Events;
 
-namespace AtmOfferService.ConnectionManagers
-{
+namespace rabbit4net {
 	using Newtonsoft.Json;
 	using System;
 	using System.Collections.Generic;
-	using System.Linq;
 	using System.Text;
 	using System.Threading.Tasks;
 

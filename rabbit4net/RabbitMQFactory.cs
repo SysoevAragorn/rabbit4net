@@ -1,10 +1,7 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Text;
 using System.Threading;
-using AtmOfferService.ConnectionManagers;
 
-namespace rabbit4netConsoleApp {
+namespace rabbit4net {
 	public class RabbitMQFactory {
 		private static readonly object Lock = new object();
 	
@@ -34,7 +31,6 @@ namespace rabbit4netConsoleApp {
 						OpenConnection();
 					}
 				} catch {
-					// Nothing to do if this fails
 				}
 			}
 		}

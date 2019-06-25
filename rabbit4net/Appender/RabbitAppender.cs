@@ -1,11 +1,8 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Text;
-using AtmOfferService.ConnectionManagers;
 using log4net.Appender;
 using log4net.Core;
 
-namespace rabbit4netConsoleApp.Appender {
+namespace rabbit4net {
 	public class RabbitAppender : AppenderSkeleton {
 
 		private RabbitMQFactory rabbitFactory;
